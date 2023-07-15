@@ -1,0 +1,12 @@
+.CS,.GB,.CB
+{
+    color: blue ;
+    font-weight: bold;
+}
+.rm{
+    height: auto;
+    width: 300px;
+}
+body{
+    background-color: aqua;
+}
